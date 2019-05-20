@@ -3,5 +3,5 @@
   AzimuthListener <br>
   LocationChange<br>
   Camera Permission<br>
-  <strong>Google+ Core<br> <<https://developers.google.com/android/guides/overview>>
+  <strong>Google+ Core<br> <https://developers.google.com/android/guides/overview>
   ...
