@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.com/PierfrancescoSoffritti/android-youtube-player.svg?branch=master)](https://travis-ci.com/PierfrancescoSoffritti/android-youtube-player) 
+![License](https://img.shields.io/badge/License-GPL%202.0-blue.svg)
 # AR Example By Pure Android Application   
 
   SensorManager <br>
@@ -8,7 +10,7 @@
   
   
   
-## Binaries
+## Binaries - Binaries Docx is Copyed By ReactiveXGit- 
 
 
 ```xml
