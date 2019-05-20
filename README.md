@@ -29,7 +29,7 @@ implementation 'io.reactivex.rxjava2:rxkotlin:x.y.z'
 
 Example for Maven:
 
-```xml
+```xmls
 <dependency>
     <groupId>io.reactivex</groupId>
     <artifactId>rxkotlin</artifactId>
