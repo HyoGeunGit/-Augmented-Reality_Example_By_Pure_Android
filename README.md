@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.com/PierfrancescoSoffritti/android-youtube-player.svg?branch=master)](https://travis-ci.com/PierfrancescoSoffritti/android-youtube-player) 
+[![Build Status](https://travis-ci.org/dwyl/esta.svg?branch=master)](https://travis-ci.org/dwyl/esta)
 ![License](https://img.shields.io/badge/License-GPL%202.0-blue.svg)
 # AR Example By Pure Android Application   
 
